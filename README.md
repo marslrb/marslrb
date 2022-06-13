@@ -8,3 +8,4 @@
 marslrb/marslrb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+My loop connects and then disconnects to Dexcom for hours. I use apple health to enter my BS and sometimes that reconnects it. My transmitter ID is correct, my permissions are enabled, I reset my Dexcom into loop, please help! 
